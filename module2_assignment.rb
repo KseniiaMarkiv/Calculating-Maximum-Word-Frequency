@@ -66,6 +66,18 @@ class Solution
  
 end
 
+##### Test of solution from assignment
+
+solution = Solution.new
+#expect errors until you implement these methods
+solution.analyze_file
+solution.calculate_line_with_highest_frequency
+solution.print_highest_word_frequency_across_lines
+
+
+
+##### it's my test 
+
 # lineAnalyzer = LineAnalyzer.new("test", 1)
 # lineAnalyzer = LineAnalyzer.new("", 1)
 # lineAnalyzer = LineAnalyzer.new("This is a really really really cool cool you you you", 2)
